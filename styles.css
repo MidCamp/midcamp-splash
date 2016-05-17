@@ -6,8 +6,8 @@ html {
       font-size: 0.8em; } }
 
 body {
-  -webkit-animation: colorchange 50s infinite;
-          animation: colorchange 50s infinite;
+  -webkit-animation: colorchange 90s infinite;
+          animation: colorchange 90s infinite;
   /* animation-name followed by duration in seconds*/
   /* you could also use milliseconds (ms) or something like 2.5s */
   display: -webkit-box;
